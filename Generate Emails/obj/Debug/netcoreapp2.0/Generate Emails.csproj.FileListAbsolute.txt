@@ -1,0 +1,10 @@
+C:\Development\Tools\Generate Emails\bin\Debug\netcoreapp2.0\Generate Emails.deps.json
+C:\Development\Tools\Generate Emails\bin\Debug\netcoreapp2.0\Generate Emails.runtimeconfig.json
+C:\Development\Tools\Generate Emails\bin\Debug\netcoreapp2.0\Generate Emails.runtimeconfig.dev.json
+C:\Development\Tools\Generate Emails\bin\Debug\netcoreapp2.0\Generate Emails.dll
+C:\Development\Tools\Generate Emails\bin\Debug\netcoreapp2.0\Generate Emails.pdb
+C:\Development\Tools\Generate Emails\obj\Debug\netcoreapp2.0\Generate Emails.csproj.CoreCompileInputs.cache
+C:\Development\Tools\Generate Emails\obj\Debug\netcoreapp2.0\Generate Emails.AssemblyInfoInputs.cache
+C:\Development\Tools\Generate Emails\obj\Debug\netcoreapp2.0\Generate Emails.AssemblyInfo.cs
+C:\Development\Tools\Generate Emails\obj\Debug\netcoreapp2.0\Generate Emails.dll
+C:\Development\Tools\Generate Emails\obj\Debug\netcoreapp2.0\Generate Emails.pdb
